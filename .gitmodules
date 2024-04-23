@@ -1,0 +1,3 @@
+[submodule "SD-ControlNet-TripoSR-main"]
+	path = SD-ControlNet-TripoSR-main
+	url = git@github.com:litrane/SD-ControlNet-TripoSR-main.git
