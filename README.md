@@ -2,6 +2,8 @@
 
 This repository provides an implementation of Stable Diffusion with ControlNet and TripoSR, offering advanced image generation capabilities.
 
+git clone --recursive  https://github.com/litrane/theta-sd-demo.git
+
 #### Prerequisites
 
 * Nvidia-docker2
